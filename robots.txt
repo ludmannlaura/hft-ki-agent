@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ludmannlaura.github.io/hft-ki-agent/sitemap.xml
