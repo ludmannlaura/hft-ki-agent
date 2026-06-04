@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ludmannlaura.github.io/hft-ki-agent/sitemap.xml
+Sitemap: https://hft-ki-agent.netlify.app/sitemap.xml
